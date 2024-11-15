@@ -1,0 +1,6 @@
+server:
+  port: 3000  #to change port
+#change the type of web server (default is servlet)
+spring:
+  main:
+    web-application-type: servlet
